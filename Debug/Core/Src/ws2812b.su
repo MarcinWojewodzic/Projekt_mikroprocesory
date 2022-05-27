@@ -1,0 +1,13 @@
+ws2812b.c:29:6:WS2812B_Init	16	static
+ws2812b.c:33:6:ws2812_clear	16	static
+ws2812b.c:40:6:WS2812B_SetDiodeColor	16	static
+ws2812b.c:48:6:WS2812B_SetDiodeColorStruct	16	static
+ws2812b.c:54:6:WS2812B_SetDiodeRGB	16	static
+ws2812b.c:62:10:WS2812B_GetColor	24	static
+ws2812b.c:71:10:WS2812B_GetPixels	4	static
+ws2812b.c:82:6:WS2812B_SetDiodeHSV	32	static
+ws2812b.c:140:6:WS2812B_Refresh	16	static
+ws2812b.c:152:6:HAL_SPI_TxHalfCpltCallback	24	static
+ws2812b.c:208:6:HAL_SPI_TxCpltCallback	24	static
+ws2812b.c:291:9:sine8	16	static
+ws2812b.c:296:9:gamma8	16	static

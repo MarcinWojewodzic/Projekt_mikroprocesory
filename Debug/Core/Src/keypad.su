@@ -1,0 +1,5 @@
+keypad.c:9:6:keypad_init	24	static
+keypad.c:41:6:keypad_getKey	16	static
+keypad.c:46:6:debounce_task	16	static
+keypad.c:84:6:idle_task	16	static
+keypad.c:107:6:keypad_task	16	static

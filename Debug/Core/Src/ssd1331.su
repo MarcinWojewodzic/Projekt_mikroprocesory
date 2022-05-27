@@ -1,0 +1,8 @@
+ssd1331.c:16:6:buffer_to_template	16	static
+ssd1331.c:23:6:temlate_to_buffer	16	static
+ssd1331.c:30:6:ssd1331_command	16	static
+ssd1331.c:37:6:setPixel	16	static
+ssd1331.c:49:6:ssd1331_clear	8	static
+ssd1331.c:54:6:invert	16	static
+ssd1331.c:61:6:ssd1331_display	24	static
+ssd1331.c:107:6:ssd1331_init	16	static
